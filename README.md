@@ -11,4 +11,4 @@ O material está disponivel no site da disciplina: http://www.inf.ufpr.br/cursos
 ## Capitulos estudados em cada aula
 **Aula 1** - Capítulo 5, exercicios 5.10.1
 
-**Aula 2** - capítulo , exercicios 5.10.2, 5.10.3, 5.10.4, 5.10.5, 5.10.6. 
+**Aula 2** - capítulo 5, exercicios 5.10.2, 5.10.3, 5.10.4, 5.10.5, 5.10.6. 
